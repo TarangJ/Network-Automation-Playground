@@ -22,6 +22,7 @@ Learn More
 
 
 To learn more about the tools used in this project, take a look at:
-Python ipaddress Documentation - validate IPv4/IPv6 addresses
-subprocess Module - run system commands from Python
-JSON Module - work with JSON data in Python
+
+- [Python ipaddress Documentation](https://docs.python.org/3/library/ipaddress.html) - validate IPv4/IPv6 addresses
+- [subprocess Module](https://docs.python.org/3/library/subprocess.html) - run system commands from Python
+- [JSON Module](https://docs.python.org/3/library/json.html) - work with JSON data in Python
