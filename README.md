@@ -11,7 +11,7 @@ It generates a JSON report with **valid/invalid IPs** and their **ping status**.
 
  Add IPs to the ip.text file
 
-Runun the script:
+Run the script:
 
 ```bash
 python3 scripts/IP_validator_ping_report.py 
