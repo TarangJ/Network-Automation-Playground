@@ -6,6 +6,11 @@ This is a Python-based project to validate IP addresses and check their reachabi
 It generates a JSON report with **valid/invalid IPs** and their **ping status**.
 
 ---
+# Git clone
+
+ git clone https://github.com/TarangJ/Network-Automation-Playground.git
+ cd Network-Automation-Playground
+
 
 ## Getting Started
 
